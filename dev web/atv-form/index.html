@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <section>
+            <h2>
+                Formulário de contato
+            </h2>
+
+            <form action="#">
+                <p>
+                    <label for="nome">*NOME</label>
+                    <input type="text" id="nome" placeholder="nome" required>
+                </p>
+
+                <p>
+                    <label for="email">*EMAIL</label>
+                    <input type="email" id="email" placeholder="*EMAIL" required>
+                </p>
+
+                <p>
+                    <label for="tel">*TELEFONE</label>
+                    <input type="tel" id="tel" placeholder="tel" required>
+                </p>
+
+                <p><label for= "setor">*SETOR</label>
+                    <select name="setor" id="setor">
+                        <option value="0">Vendas</option>
+                        <option value="1">Admistrativo</option>
+                        <option value="2">Comercial</option>
+                    </select>
+                </p>
+
+                <label for= "mensagem">Mensagem</label>
+                <textarea name="mensagem" id="mensagem">
+
+                </textarea>
+
+                <fieldset>
+                    <legend>
+                        Comunicação Urgente
+                    </legend>
+
+                    <label>
+                        <input type="radio" name="comunicar">Sim
+                    </label>
+                    <label>
+                        <input type="radio" name="comunicar">Não
+                    </label>
+
+                </fieldset>
+
+                <fieldset>
+                    <legend>
+                        Obtive conhecimento do projeto
+                    </legend>
+
+                    <label>
+                        <input type="checkbox">Buscador
+                    </label>
+                    <label>
+                        <input type="checkbox">Publicidade em vídeo 
+                    </label>
+                    <label>
+                        <input type="checkbox">Amigos
+                    </label>
+                    <label>
+                        <input type="checkbox">Email
+                    </label>
+                    <label>
+                        <input type="checkbox">Outros
+                    </label>
+
+                </fieldset>
+                    <input type="reset" value="LIMPAR">
+                <button type="submit">
+                    ENVIAR
+                </button>
+
+            </form>
+        </section>
+    </main>
+</body>
+</html>
