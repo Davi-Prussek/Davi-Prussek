@@ -1,2 +1,1 @@
-## Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=compact&theme=dark)
+![Languages Used](https://github-profile-summary-cards.vercel.app/api/cards/languages.svg?username=Davi-Prussek&theme=dark)
