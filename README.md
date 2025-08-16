@@ -1,3 +1,3 @@
 # Olá, muito prazer!
-Estudo no IFC(Instituto Federal Catarinense)  
+Estudo no IFC e estou no primeiro ano.    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=donut&theme=dark)
