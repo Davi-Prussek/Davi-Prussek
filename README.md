@@ -2,3 +2,4 @@
 ### Estudo no IFC e estou no primeiro ano.    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=donut&theme=dark)
   
+![snake gif](https://github.com/Davi-Prussek/Davi-Prussek/blob/output/github-snake.svg)
