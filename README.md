@@ -4,7 +4,6 @@
   <h1>Olá, muito prazer!</h1>
   <p>Estudo no IFC e estou no primeiro ano.</p>    
 
-  <!-- Aqui é só a imagem, sem <a> -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=donut&theme=dark)
 </div>
   
