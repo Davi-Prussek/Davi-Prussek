@@ -19,6 +19,7 @@
 ![snake gif dark](https://github.com/Davi-Prussek/Davi-Prussek/blob/output/github-snake-dark.svg?palette=github-dark)
 
 </div>
+
 ## FRONTEND
 
 <p align="center">
