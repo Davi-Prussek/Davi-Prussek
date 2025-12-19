@@ -1,5 +1,4 @@
-[<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&section=header&colorStart=19171b&colorEnd=51080d"/>](https://capsule-render.vercel.app/api?type=waving&colorStart=19171b&colorEnd=51080d&height=120&section=header&text=Olá%20Davi&fontColor=ffffff&fontSize=50
-)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <div align="center">
   <h1>Olá, muito prazer!</h1>
