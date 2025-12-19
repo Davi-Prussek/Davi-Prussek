@@ -8,7 +8,6 @@
   
   </td>
   <td>
-    
 <img src="https://github-readme-stats.vercel.app/api?username=Davi-Prussek&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" width="400"/>
   </td>
   </tr>
