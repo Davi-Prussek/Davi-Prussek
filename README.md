@@ -5,12 +5,12 @@
   <tr>
     <td>
       
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=donut&theme=dark&width="100%")
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=donut&theme=dark)
   
   </td>
   <td>
   <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Davi-Prussek&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Davi-Prussek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davi-Prussek&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Davi-Prussek's GitHub Stats" width="70%"/>
   </p>
   </td>
   </tr>
