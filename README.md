@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1A0002,2B0307,51080D&text=Ol%C3%A1%2C%20muito%20%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1A0002,2B0307,51080D&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" 
        style="transform: rotate(180deg);" />
 </p>
 
