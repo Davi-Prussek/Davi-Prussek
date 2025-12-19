@@ -9,4 +9,5 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aa53ed&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&colorStart=FF5733&colorEnd=FFC300&height=120&section=header"/>
+
