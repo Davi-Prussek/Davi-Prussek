@@ -5,7 +5,7 @@
   <tr>
     <td>
       
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-prussek&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=donut&theme=dark)
   
   </td>
   <td>
