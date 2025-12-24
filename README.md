@@ -8,11 +8,11 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=donut&theme=dark&hide=python)
   
   </td>
-  <td>
+  <!-- <td>
   <p>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Davi-Prussek&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Davi-Prussek's GitHub Stats"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Davi-Prussek&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Davi-Prussek's GitHub Stats"/>
   </p>
-  </td>
+  </td> -->
   </tr>
 </table>
   
