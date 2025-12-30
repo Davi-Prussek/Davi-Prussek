@@ -5,8 +5,8 @@
   <tr>
     <td>
 
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Davi-Prussek&layout=compact&theme=dark)
-  
+  ![Metrics](https://metrics.lecoq.io/Davi-Prussek?template=classic&languages=1&languages.limit=6)
+
   </td>
   <!-- <td>
   <p>
