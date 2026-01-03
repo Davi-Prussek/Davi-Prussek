@@ -1,10 +1,11 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ol%C3%A1%2C%20muito%20prazer!%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<!--![](https://github-readme-stats.vercel.app/api?username=Davi-Prussek&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Davi-Prussek&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Davi-Prussek&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=compact&cache_seconds=86400&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
