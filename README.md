@@ -1,11 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ol%C3%A1%2C%20muito%20prazer!%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=compact&theme=radical&exclude_repo=Projeto-integrador-II&cache_seconds=0)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davi-Prussek&show_icons=true&theme=radical)
 
   
