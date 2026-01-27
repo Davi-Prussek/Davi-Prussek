@@ -3,6 +3,11 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Prussek&layout=compact&theme=radical&exclude_repo=Projeto-integrador-II&cache_seconds=0)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Davi-Prussek&show_icons=true&theme=radical)
+
   
 ![snake gif dark](https://github.com/Davi-Prussek/Davi-Prussek/blob/output/github-snake-dark.svg?palette=github-dark)
 
