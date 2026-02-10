@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ol%C3%A1%2C%20muito%20prazer!%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davi-prussek&theme=transparent" height="400px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi-prussek&theme=transparent&exclude_repo=PI_CuidadosDeUmProgramador" height="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi-prussek&theme=transparent" height="400"/>
 
   
 ![snake gif dark](https://github.com/Davi-Prussek/Davi-Prussek/blob/output/github-snake-dark.svg?palette=github-dark)
