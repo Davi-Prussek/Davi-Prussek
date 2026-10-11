@@ -38,8 +38,7 @@
 
 </p>
 
-
-![Minhas recomendações musicais](./assets/music-card.svg)
+<img src="./assets/music-card.svg" alt="Minhas recomendações musicais" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A001F,100:B03052&height=150&section=footer"/>
 </div>
