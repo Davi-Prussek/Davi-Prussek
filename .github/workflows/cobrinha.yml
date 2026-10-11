@@ -1,3 +1,4 @@
+
 name: Generate Snake
 
 on:
@@ -21,10 +22,9 @@ jobs:
             dist/github-snake.svg?color_snake=%23B03052&color_dots=%23161217,%234A001F,%23721C3A,%23922746,%23B03052
             dist/github-snake-dark.svg?color_snake=%23B03052&color_dots=%23161217,%234A001F,%23721C3A,%23922746,%23B03052
 
-      - name: Push to GitHub
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.PERSONAL_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
