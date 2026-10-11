@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A001F&height=220&section=header&text=Muito+prazer!&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&fontAlignY=40"/>
 
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davi-prussek&icon_color=4A001F&border_color=4A001F&title_color=fff&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi-prussek&border_color=4A001F&title_color=fff&theme=github_dark&exclude_language=HTML" />
+<p align="center" style="display: flex; justify-content: center;">
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davi-prussek&icon_color=4A001F&border_color=4A001F&title_color=fff&theme=github_dark" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi-prussek&border_color=4A001F&title_color=fff&theme=github_dark&exclude_language=HTML" />
 </p>
 
 
