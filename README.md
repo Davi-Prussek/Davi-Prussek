@@ -10,7 +10,7 @@
   
 ![snake gif dark](https://github.com/Davi-Prussek/Davi-Prussek/blob/output/github-snake-dark.svg?palette=github-dark)
 
-# Tecnologias
+# Estudando atualmente
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
 
@@ -31,12 +31,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />
 
 <img src="https://www.svgrepo.com/show/373554/django.svg" width="48" />
-</p>
 
-# Tecnologias em aprendizado
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="48" />
+
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama-dark.png" height="48" />
+
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A001F,100:B03052&height=150&section=footer"/>
