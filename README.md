@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A001F,100:B03052&height=220&section=header&text=Muito+prazer!&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A001F&height=220&section=header&text=Muito+prazer!&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&fontAlignY=40"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davi-prussek&title_color=fff&theme=github_dark" height="400px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi-prussek&title_color=fff&theme=github_dark&exclude_language=HTML" height="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davi-prussek&icon_color=4A001F&border_color=4A001F&title_color=fff&theme=github_dark" height="400px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi-prussek&border_color=4A001F&title_color=fff&theme=github_dark&exclude_language=HTML" height="400"/>
 
   
 ![snake gif dark](https://github.com/Davi-Prussek/Davi-Prussek/blob/output/github-snake-dark.svg?palette=github-dark)
