@@ -24,4 +24,3 @@ jobs:
           plugin_music_playlist: https://open.spotify.com/embed/playlist/6b5YetR80d5pn9o6xENtvP
           plugin_music_limit: 3
           output_action: commit
-          plugins_errors_fatal: yes
