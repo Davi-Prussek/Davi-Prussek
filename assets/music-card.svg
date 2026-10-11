@@ -18,11 +18,23 @@
   <path d="M24 75 H976" stroke="#542037" stroke-width="1"/>
   <rect x="24" y="23" width="4" height="34" rx="2" fill="#B03052"/>
   <text x="40" y="46" fill="#f7edf1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Minhas recomendações</text>
-  <text x="40" y="64" fill="#b99aa7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2">FAIXAS QUE ESTÃO NO REPEAT</text>
-  <g transform="translate(944 27)">
-    <circle cx="0" cy="0" r="16" fill="#1ed760"/>
-    <path d="M-8 -5 C-2 -7 5 -6 9 -3 M-7 0 C-2 -2 4 -1 7 1 M-5 5 C-1 4 3 5 5 6" fill="none" stroke="#102016" stroke-width="2" stroke-linecap="round"/>
-  </g>
+
+  <g transform="translate(945 25) scale(0.55)">
+  <circle cx="32" cy="32" r="30" fill="#B03052"/>
+
+  <path d="M16 24 C27 20 41 22 49 27"
+        fill="none" stroke="#161217"
+        stroke-width="4.5" stroke-linecap="round"/>
+
+  <path d="M18 32 C28 29 39 31 46 35"
+        fill="none" stroke="#161217"
+        stroke-width="4" stroke-linecap="round"/>
+
+  <path d="M20 40 C28 38 36 40 42 43"
+        fill="none" stroke="#161217"
+        stroke-width="3.5" stroke-linecap="round"/>
+</g>
+
 
   <!-- Música 1 -->
   <rect x="22" y="91" width="294" height="188" rx="15" fill="#1b1119" stroke="#482033"/>
