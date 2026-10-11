@@ -2,8 +2,6 @@ name: Generate Music Card
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -17,10 +15,12 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.music.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: NOT_NEEDED
           user: Davi-Prussek
           base: ""
           plugin_music: yes
           plugin_music_playlist: https://open.spotify.com/embed/playlist/6b5YetR80d5pn9o6xENtvP
           plugin_music_limit: 3
           output_action: commit
+          delay: 120
+          plugins_errors_fatal: yes
