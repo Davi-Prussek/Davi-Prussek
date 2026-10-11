@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=22&text=Ol%C3%A1%2C%20muito%20prazer!%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A001F,100:B03052&height=220&section=header&text=Muito+prazer!&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&fontAlignY=40"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davi-prussek&theme=github_dark" height="400px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi-prussek&theme=github_dark&exclude_language=HTML" height="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davi-prussek&title_color=fff&theme=github_dark" height="400px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davi-prussek&title_color=fff&theme=github_dark&exclude_language=HTML" height="400"/>
 
   
 ![snake gif dark](https://github.com/Davi-Prussek/Davi-Prussek/blob/output/github-snake-dark.svg?palette=github-dark)
@@ -36,6 +36,6 @@
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama-dark.png" height="48" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=22&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A001F,100:B03052&height=150&section=footer"/>
 </div>
 
