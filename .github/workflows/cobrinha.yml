@@ -22,9 +22,11 @@ jobs:
             dist/github-snake.svg?color_snake=%23B03052&color_dots=%23161217,%234A001F,%23721C3A,%23922746,%23B03052
             dist/github-snake-dark.svg?color_snake=%23B03052&color_dots=%23161217,%234A001F,%23721C3A,%23922746,%23B03052
 
+      
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           target_branch: output
           build_dir: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}
