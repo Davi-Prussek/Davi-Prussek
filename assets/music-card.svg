@@ -1,147 +1,61 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="242" viewBox="0 0 960 242">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Minhas recomendações musicais</title>
+  <desc id="desc">Cartão escuro com três músicas: Sózin, Cura e Me Desculpa Jay Z.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1B141B"/>
-      <stop offset="100%" stop-color="#100D12"/>
+      <stop offset="0" stop-color="#161217"/>
+      <stop offset="1" stop-color="#210d17"/>
     </linearGradient>
-    <linearGradient id="cover1" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#7D2444"/>
-      <stop offset="100%" stop-color="#21101C"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4A001F"/>
+      <stop offset="1" stop-color="#B03052"/>
     </linearGradient>
-    <linearGradient id="cover2" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#4A001F"/>
-      <stop offset="100%" stop-color="#17121B"/>
-    </linearGradient>
-    <linearGradient id="cover3" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#85354C"/>
-      <stop offset="100%" stop-color="#26131F"/>
-    </linearGradient>
+    <clipPath id="cover1"><rect x="38" y="116" width="96" height="96" rx="10"/></clipPath>
+    <clipPath id="cover2"><rect x="352" y="116" width="96" height="96" rx="10"/></clipPath>
+    <clipPath id="cover3"><rect x="666" y="116" width="96" height="96" rx="10"/></clipPath>
   </defs>
-
-  <rect x="1" y="1" width="958" height="240" rx="14"
-        fill="url(#bg)" stroke="#4A001F" stroke-width="1.5"/>
-
-  <!-- Cabeçalho -->
-  <g fill="none" stroke="#B03052" stroke-width="2"
-     stroke-linecap="round" stroke-linejoin="round">
-    <path d="M30 28 V49 L24 53 V37 L30 33"/>
-    <path d="M30 28 L43 24 V43"/>
-    <circle cx="24" cy="55" r="4" fill="#B03052"/>
-    <circle cx="39" cy="45" r="4" fill="#B03052"/>
+  <rect x="1" y="1" width="998" height="298" rx="22" fill="url(#bg)" stroke="#6e1837" stroke-width="2"/>
+  <path d="M24 75 H976" stroke="#542037" stroke-width="1"/>
+  <rect x="24" y="23" width="4" height="34" rx="2" fill="#B03052"/>
+  <text x="40" y="46" fill="#f7edf1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Minhas recomendações</text>
+  <text x="40" y="64" fill="#b99aa7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2">FAIXAS QUE ESTÃO NO REPEAT</text>
+  <g transform="translate(944 27)">
+    <circle cx="0" cy="0" r="16" fill="#1ed760"/>
+    <path d="M-8 -5 C-2 -7 5 -6 9 -3 M-7 0 C-2 -2 4 -1 7 1 M-5 5 C-1 4 3 5 5 6" fill="none" stroke="#102016" stroke-width="2" stroke-linecap="round"/>
   </g>
 
-  <text x="56" y="39" fill="#F5EDF0"
-        font-family="Arial, sans-serif" font-size="19" font-weight="700">
-    Minhas recomendações
-  </text>
-  <text x="56" y="57" fill="#9B8792"
-        font-family="Arial, sans-serif" font-size="9" letter-spacing="1.8">
-    UMA SELEÇÃO PESSOAL
-  </text>
+  <!-- Música 1 -->
+  <rect x="22" y="91" width="294" height="184" rx="15" fill="#1b1119" stroke="#482033"/>
+  <image x="38" y="116" width="96" height="96" preserveAspectRatio="xMidYMid slice" clip-path="url(#cover1)" href="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02b8c6985a433be98c89c81b32" xlink:href="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02b8c6985a433be98c89c81b32"/>
+  <rect x="38" y="116" width="96" height="96" rx="10" fill="none" stroke="#7d2b4a" stroke-width="1"/>
+  <text x="148" y="139" fill="#f8eef2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Sózin</text>
+  <text x="148" y="160" fill="#c5aab5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Sotam, Elana Dara</text>
+  <text x="148" y="176" fill="#c5aab5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">e Rob</text>
+  <path d="M38 231 H300" stroke="#492032"/>
+  <text x="38" y="253" fill="#d7bdc8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">2:17</text>
+  <circle cx="278" cy="247" r="17" fill="url(#accent)"/>
+  <path d="M274 239 L274 255 L286 247 Z" fill="#fff4f7"/>
 
-  <!-- Ícone Spotify decorativo -->
-  <g transform="translate(916 39)" fill="none"
-     stroke="#B03052" stroke-width="2" stroke-linecap="round">
-    <circle r="15"/>
-    <path d="M-8 -5 Q0 -9 8 -4"/>
-    <path d="M-7 0 Q0 -3 7 1"/>
-    <path d="M-5 5 Q0 3 5 6"/>
-  </g>
+  <!-- Música 2 -->
+  <rect x="336" y="91" width="294" height="184" rx="15" fill="#1b1119" stroke="#482033"/>
+  <image x="352" y="116" width="96" height="96" preserveAspectRatio="xMidYMid slice" clip-path="url(#cover2)" href="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027cf7aa21ae65575fd51cdc07" xlink:href="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e027cf7aa21ae65575fd51cdc07"/>
+  <rect x="352" y="116" width="96" height="96" rx="10" fill="none" stroke="#7d2b4a" stroke-width="1"/>
+  <text x="462" y="139" fill="#f8eef2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">Cura</text>
+  <text x="462" y="160" fill="#c5aab5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Sotam</text>
+  <path d="M352 231 H614" stroke="#492032"/>
+  <text x="352" y="253" fill="#d7bdc8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">2:41</text>
+  <circle cx="592" cy="247" r="17" fill="url(#accent)"/>
+  <path d="M588 239 L588 255 L600 247 Z" fill="#fff4f7"/>
 
-  <path d="M24 73 H936" stroke="#4A001F" stroke-width="1"/>
-
-  <!-- Música 1: capa ilustrativa -->
-  <g transform="translate(26 94)">
-    <rect width="88" height="88" rx="6" fill="url(#cover1)"/>
-    <circle cx="44" cy="44" r="27" fill="none"
-            stroke="#C06A82" stroke-opacity=".45"/>
-    <circle cx="44" cy="44" r="18" fill="none"
-            stroke="#C06A82" stroke-opacity=".5"/>
-    <path d="M0 67 L52 0 H88 V20 L20 88 H0 Z"
-          fill="#100D12" fill-opacity=".38"/>
-    <text x="44" y="49" text-anchor="middle" fill="#F5EDF0"
-          font-family="Georgia, serif" font-size="17" font-style="italic">
-      S.
-    </text>
-  </g>
-
-  <text x="130" y="113" fill="#F5EDF0"
-        font-family="Arial, sans-serif" font-size="15" font-weight="700">
-    Sózin
-  </text>
-  <text x="130" y="134" fill="#B9AAB1"
-        font-family="Arial, sans-serif" font-size="12">
-    Sotam
-  </text>
-  <text x="130" y="169" fill="#8F7C85"
-        font-family="Arial, sans-serif" font-size="11">—:—</text>
-  <circle cx="274" cy="165" r="12" fill="#4A001F"/>
-  <path d="M272 159 L272 171 L280 165 Z" fill="#E8B9C7"/>
-
-  <!-- Música 2: capa ilustrativa -->
-  <g transform="translate(346 94)">
-    <rect width="88" height="88" rx="6" fill="url(#cover2)"/>
-    <path d="M0 0 H88 L0 88 Z" fill="#7D2444" fill-opacity=".45"/>
-    <path d="M88 0 V88 H0 Z" fill="#100D12" fill-opacity=".35"/>
-    <circle cx="44" cy="44" r="27" fill="none"
-            stroke="#C06A82" stroke-opacity=".55"/>
-    <text x="44" y="50" text-anchor="middle" fill="#F5EDF0"
-          font-family="Georgia, serif" font-size="17" font-style="italic">
-      c.
-    </text>
-  </g>
-
-  <text x="450" y="113" fill="#F5EDF0"
-        font-family="Arial, sans-serif" font-size="15" font-weight="700">
-    cura
-  </text>
-  <text x="450" y="134" fill="#B9AAB1"
-        font-family="Arial, sans-serif" font-size="12">
-    Sotam
-  </text>
-  <text x="450" y="169" fill="#8F7C85"
-        font-family="Arial, sans-serif" font-size="11">—:—</text>
-  <circle cx="594" cy="165" r="12" fill="#4A001F"/>
-  <path d="M592 159 L592 171 L600 165 Z" fill="#E8B9C7"/>
-
-  <!-- Música 3: capa ilustrativa -->
-  <g transform="translate(666 94)">
-    <rect width="88" height="88" rx="6" fill="url(#cover3)"/>
-    <path d="M0 0 L88 88 M88 0 L0 88"
-          stroke="#D38BA0" stroke-opacity=".35" stroke-width="1.5"/>
-    <circle cx="44" cy="44" r="27" fill="#100D12" fill-opacity=".24"
-            stroke="#D38BA0" stroke-opacity=".5"/>
-    <text x="44" y="49" text-anchor="middle" fill="#F5EDF0"
-          font-family="Georgia, serif" font-size="17" font-style="italic">
-      JZ
-    </text>
-  </g>
-
-  <text x="770" y="111" fill="#F5EDF0"
-        font-family="Arial, sans-serif" font-size="13" font-weight="700">
-    me desculpa
-  </text>
-  <text x="770" y="127" fill="#F5EDF0"
-        font-family="Arial, sans-serif" font-size="13" font-weight="700">
-    jay Z
-  </text>
-  <text x="770" y="145" fill="#B9AAB1"
-        font-family="Arial, sans-serif" font-size="11">
-    Baco Exu do Blues
-  </text>
-  <text x="770" y="169" fill="#8F7C85"
-        font-family="Arial, sans-serif" font-size="11">—:—</text>
-  <circle cx="914" cy="165" r="12" fill="#4A001F"/>
-  <path d="M912 159 L912 171 L920 165 Z" fill="#E8B9C7"/>
-
-  <path d="M24 202 H936" stroke="#34232B" stroke-width="1"/>
-  <text x="26" y="222" fill="#8F7C85"
-        font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">
-    PLAYLIST PESSOAL
-  </text>
-  <text x="934" y="222" text-anchor="end" fill="#B03052"
-        font-family="Arial, sans-serif" font-size="9" letter-spacing="1.2">
-    MUSIC / 001
-  </text>
+  <!-- Música 3 -->
+  <rect x="650" y="91" width="328" height="184" rx="15" fill="#1b1119" stroke="#482033"/>
+  <image x="666" y="116" width="96" height="96" preserveAspectRatio="xMidYMid slice" clip-path="url(#cover3)" href="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02befe6e63a26b9c8a25018bbd" xlink:href="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02befe6e63a26b9c8a25018bbd"/>
+  <rect x="666" y="116" width="96" height="96" rx="10" fill="none" stroke="#7d2b4a" stroke-width="1"/>
+  <text x="776" y="139" fill="#f8eef2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Me Desculpa Jay Z</text>
+  <text x="776" y="160" fill="#c5aab5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Baco Exu do Blues</text>
+  <text x="776" y="176" fill="#c5aab5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">e 1LUM3</text>
+  <path d="M666 231 H962" stroke="#492032"/>
+  <text x="666" y="253" fill="#d7bdc8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">3:32</text>
+  <circle cx="940" cy="247" r="17" fill="url(#accent)"/>
+  <path d="M936 239 L936 255 L948 247 Z" fill="#fff4f7"/>
 </svg>
