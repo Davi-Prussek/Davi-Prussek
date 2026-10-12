@@ -35,7 +35,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="48" />
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama-dark.png" height="48" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama-dark.png" height="48" /> -->
 
 </p>
 
